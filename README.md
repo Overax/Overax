@@ -11,9 +11,7 @@
 <code><img height="30" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white" /></code>  
 <code><img alt="js" height="30" src="https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javascript&logoColor=white" /></code>  
 <code><img height="30" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" /></code>  
-<code><img height="30" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" /></code>  
 <code><img alt="npm" height="30" src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white" /></code>  
-<code><img alt="MongoDB" height="30" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" /></code>  
 
 
 <a href="https://github.com/Overax">
