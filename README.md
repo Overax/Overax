@@ -7,3 +7,15 @@
 https://media.giphy.com/media/S9ceqxtbESAXfNdLer/giphy.gif
 
 
+<a href="https://github.com/Rayan1635">
+ <p align="left">
+  <img src="https://profile-counter.glitch.me/Rayan1635/count.svg" />
+ <p>
+</a>
+
+<a href="https://github.com/Rayan1635">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan1635&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Rayan1635">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rayan1635&show_icons=true&theme=light&line_height=27" alt="Rayan1635's GitHub Stats" />
+</a>
