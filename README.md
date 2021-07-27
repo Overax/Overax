@@ -3,7 +3,7 @@
 ### Salut les chinois 👋
 
 - 🔭Je suis Overax
-- 🌱Dévloppeur de Aslon.
+- 🌱Créateur de DyGo.
 - 👯Suppérieur a vous.
 
 ### <a href="https://github.com/Rayan1635">
