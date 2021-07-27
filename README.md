@@ -2,9 +2,7 @@
 
 ### Salut les chinois 👋
 
-- 🔭Je suis Overax
-- 🌱Créateur de DyGo.
-- 👯Suppérieur a vous.
+- 🔭Je suis Overax, je suis créateurs de DyGo J'ai 15 ans et je suis extrémement BG.
 
 ### <a href="https://github.com/Rayan1635">
 <img align="center" src="https://media.giphy.com/media/MVUdrlCyCSgeorwMYK/giphy.gif" width="345px">
