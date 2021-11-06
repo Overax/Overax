@@ -4,9 +4,7 @@
 
 - 🔭Je suis Overax, je suis créateurs de DyGo J'ai 15 ans et je suis extrémement BG.
 
-### <a href="https://github.com/Rayan1635">
-<img align="center" src="https://media.giphy.com/media/MVUdrlCyCSgeorwMYK/giphy.gif" width="345px">
-<a>
+
 
 ## 💻 **Langue utilisé**
 
@@ -15,7 +13,6 @@
 <code><img height="30" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white" /></code>  
 <code><img alt="js" height="30" src="https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javascript&logoColor=white" /></code>  
 <code><img height="30" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" /></code>  
-<code><img alt="npm" height="30" src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white" /></code>  
 
 ## 💣 **Utilisateur mensuelle**
 <a href="https://github.com/Overax">
